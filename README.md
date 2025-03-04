@@ -10,6 +10,11 @@
         <h1>Jogo de Sorteio de Nomes</h1>
     </header>
     <main>
+        <div>
+              <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+              <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+        </div>
         <p>Este é um simples jogo desenvolvido com <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, no qual o objetivo é digitar uma lista de nomes e, em seguida, o jogo sorteia aleatoriamente um dos nomes digitados.</p>
         <h3>Funcionalidade:</h3>
         <ul>
