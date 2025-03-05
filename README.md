@@ -26,7 +26,7 @@
 </body>
 </html>
 
-##🔨 Funcionalidades
+## 🔨Funcionalidades
 
 - **Adicionar Nomes**: O usuário pode adicionar nomes de amigos por meio de um campo de texto e um botão "Adicionar".
 - **Validação de Entrada**: Caso o campo de texto esteja vazio, o sistema exibirá um alerta solicitando que o usuário insira um nome válido.
